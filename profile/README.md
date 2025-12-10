@@ -14,10 +14,7 @@
       <p>When it comes to displays, ScrapComputers surpasses every other mod in both speed and visual quality. Our advanced rendering techniques ensure smooth performance and crisp visuals, outperforming any other computer mod.</p>
     </td>
     <td valign="top" width="50%" align="center">
-      <video autoplay muted loop playsinline controls width="100%" style="max-width:500px;">
-        <source src="./donutBenchmark.gif" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+      <img src="./donutBenchmark.gif" alt="Donut Benchmark" width="100%" style="max-width:500px;">
     </td>
   </tr>
   <tr>
