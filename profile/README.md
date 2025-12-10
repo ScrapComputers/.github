@@ -6,6 +6,9 @@
     <strong>ScrapComputers</strong> is a <a href="https://store.steampowered.com/app/387990/Scrap_Mechanic/">Scrap Mechanic</a> mod that adds computers to the game. It’s one of the most advanced computer mods available, with a strong focus on <strong>quality</strong> and <strong>performance</strong>.
 </p>
 
+> [!NOTE]
+> ScrapComputers is **NOT**  compatible with ScriptableComputers or any other computer mod. It is an **independent mod** with a **completely different API**!
+
 <table>
   <tr>
     <td valign="top" width="50%">
@@ -43,12 +46,12 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/159570832?v=4" alt="VeraDev" width="150" height="150" style="border-radius:50%;"><br>
+      <img src="https://avatars.githubusercontent.com/u/159570832?v=4" alt="VeraDev" width="150" height="150" style="border-radius:50%; object-fit: cover;"><br>
       <strong>VeraDev</strong><br>
       <i>Owner of ScrapComputers & LuaVM Wizard</i>
     </td>
     <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/99429191?v=4" alt="Ben Bingo" width="150" height="150" style="border-radius:50%;"><br>
+      <img src="https://avatars.githubusercontent.com/u/99429191?v=4" alt="Ben Bingo" width="150" height="150" style="border-radius:50%; object-fit: cover;"><br>
       <strong>Ben Bingo</strong><br>
       <i>Developer & Display Wizard</i>
     </td>
